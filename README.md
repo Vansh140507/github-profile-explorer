@@ -117,7 +117,7 @@ GET https://api.github.com/users/{username}
 **Vansh**
 - 🎓 B.Tech IoT & Cybersecurity with Blockchain Technology — CGC Jhanjeri
 - 📧 vanshbhatnagar2808@gmail.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [@Vansh140507](https://github.com/Vansh140507)
 
 ---
 
